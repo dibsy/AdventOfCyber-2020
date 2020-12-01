@@ -1,4 +1,3 @@
-```
 "The Best Festival Company's brand new OpenVPN server has been hacked. This is a crisis!
 
 The attacker has damaged various aspects of the company infrastructure -- including using the Christmas Control Centre to shut off the assembly line!
@@ -6,7 +5,7 @@ The attacker has damaged various aspects of the company infrastructure -- includ
 It's only 24 days until Christmas, and that line has to be operational or there won't be any presents! You have to hack your way  back into Santa's account (blast that hacker changing the password!) and getting the assembly line up and running again, or Christmas will be ruined!"
 
 *After giving you the assignment, McSkidy hands you the following dossier of important information for the task
-```
+
 - What is the name of the cookie used for authentication?
 
 ```
