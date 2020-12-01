@@ -9,7 +9,9 @@ It's only 24 days until Christmas, and that line has to be operational or there 
 ```
 - What is the name of the cookie used for authentication?
 
-```auth```
+```
+auth
+```
 ```
 Can be found by looking into the storage of browser
 ```
