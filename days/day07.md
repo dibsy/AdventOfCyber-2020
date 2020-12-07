@@ -25,7 +25,9 @@ reindeer-of-the-week
 ```
 plaintext_password_fiasco
 ```
-
+```
+ftp in filter
+```
 - Continuing with our analysis of "pcap2.pcap", what is the name of the protocol that is encrypted?
 ```
 ssh
@@ -35,4 +37,6 @@ ssh
 ```
 Rubber ducky
 ```
-
+```
+Carve the christmas.zip from wireshark capture
+``
