@@ -10,3 +10,14 @@ Apache Tomcat/9.0.17
 ```
 CVE-2019-0232
 ```
+- What are the contents of flag1.txt
+```
+thm{whacking_all_the_elves}
+```
+```
+msf5 exploit(windows/http/tomcat_cgi_cmdlineargs) > exploit
+```
+- Looking for a challenge? Try to find out some of the vulnerabilities present to escalate your privileges!
+```
+Todo - Need to learn this topic
+```
