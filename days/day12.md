@@ -6,3 +6,7 @@ Christmas is fast approaching, yet, all remain silent at The Best Festival Compa
 ```
 Apache Tomcat/9.0.17
 ```
+- What CVE can be used to create a Meterpreter entry onto the machine? (Format: CVE-XXXX-XXXX)
+```
+CVE-2019-0232
+```
