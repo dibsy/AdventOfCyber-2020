@@ -34,3 +34,12 @@ DISTRIB_CODENAME=precise
 DISTRIB_DESCRIPTION="Ubuntu 12.04 LTS"
 
 ```
+- Who got here first ?
+```
+Grinch
+```
+
+- What is the verbatim syntax you can use to compile, taken from the real C source code comments?
+```
+gcc -pthread dirty.c -o dirty lcrypt
+```
