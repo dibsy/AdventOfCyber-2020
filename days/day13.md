@@ -41,5 +41,23 @@ Grinch
 
 - What is the verbatim syntax you can use to compile, taken from the real C source code comments?
 ```
-gcc -pthread dirty.c -o dirty lcrypt
+gcc -pthread dirty.c -o dirty -lcrypt
+```
+
+- What "new" username was created, with the default operations of the real C source code?
+```
+firefart
+```
+
+- What is the MD5 hash output?
+```
+8b16f00dd3b51efadb02c1df7f8427cc
+```
+```
+firefart@christmas:~# touch coal
+firefart@christmas:~# tree | md5sum
+8b16f00dd3b51efadb02c1df7f8427cc  -
+firefart@christmas:~# tree | md5sum
+8b16f00dd3b51efadb02c1df7f8427cc  -
+firefart@christmas:~# 
 ```
