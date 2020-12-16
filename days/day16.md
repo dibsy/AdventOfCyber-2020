@@ -14,3 +14,17 @@ Winter Wonderland, Hyde Park, London
 ```
 57
 ```
+```
+import time
+import requests
+
+for i in range(1,100,2):
+        r = requests.get("http://10.10.222.51:8000/api/"+str(i))
+        print(r.text)
+        time.sleep(2)
+        r.close()
+
+
+
+{"item_id":57,"q":"Winter Wonderland, Hyde Park, London."}
+```
