@@ -1,3 +1,4 @@
+McSkidy has never really touched low-level languages - this is something they must learn in their quest to defeat the Christmas monster.
 - What is the value of local_ch when its corresponding movl instruction is called (first if multiple)?
 ```
 1
